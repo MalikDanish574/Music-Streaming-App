@@ -1,0 +1,27 @@
+import 'package:flutter/material.dart';
+
+const Color background=Color(0xff181B2C);
+const Color logotext=Color(0xffFFFFFF);
+const Color whitetext=Color(0xffFFFFFF);
+const Color Containerbgwhite=Color(0xffFFFFFF);
+const Color btntext=Color(0xffFFFFFF);
+const Color labeltabtext=Color(0xffFFFFFF);
+const Color iconwhite=Color(0xffFFFFFF);
+const Color unselectedlabeltabtext=Color(0xff707070);
+const Color textgrey=Color(0xff707070);
+const Color btnbg=Color(0xffEb8275);
+const Color btnbg2=Color(0xffDA549A);
+const Color btnbgGrey=Color(0xff292E4B);
+const Color textfieldbg=Color(0xff292E4B);
+const Color iconGrey=Color(0xff292E4B);
+const Color containerbg=Color(0xff292E4B);
+const Color containerbgRed=Color(0xffFF0000);
+const Color textRed=Color(0xffFF0000);
+const Color lightpurple =  Color(0xff9869F6);
+const Color black =  Color(0xff030303);
+const Color iconblackcolor =  Color(0xff030303);
+const Color Custombaricon=Color(0xff97999B);
+const Color iconLightGrey=Color(0xff707070);
+const Color Custombarlabel=Color(0xff97999B);
+const Color selectedCustomBar=Color(0xffFFFFFF);
+const Color unreadIconColor = Colors.yellow;
